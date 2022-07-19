@@ -1,2162 +1,472 @@
 [
   {
     "secret": "7onJL08k6fUST38law_u2HNkbXl3ZWIuY2xvdWRmcm9udC5uZXQ",
-    "id": 0,
     "host": "116.203.220.231",
     "port": 443
   },
   {
     "secret": "7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw",
-    "id": 0,
     "host": "All.fitness-bike.boston.",
     "port": 88
   },
   {
     "secret": "7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw",
-    "id": 0,
     "host": "Hernanndes.fitness-bike.boston.",
     "port": 88
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayi.monaserver.cfd.",
     "port": 8080
   },
   {
     "secret": "dd00000000000000000000000000000000",
-    "id": 0,
     "host": "zaraz.dynu.com",
     "port": 443
   },
   {
     "secret": "7jK5IN_7UWQwKOL2uHjU6sFkMTg2cml4a241cnViYS5jbG91ZGZyb250Lm5ldA",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayo.monaserver.cfd.",
     "port": 443
   },
   {
     "secret": "7jK5IN_7UWQwKOL2uHjU6sFpcmFuYWlyaG9tYS5jZmQ",
-    "id": 0,
     "host": "het.warehere.again.to.defeets.got.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.nizcom.cloud",
     "port": 443
   },
   {
     "secret": "dd00000000000000000000000000000000",
-    "id": 0,
     "host": "www.2onya.photography.",
     "port": 443
   },
   {
     "secret": "dd00000000000000000000000000000000",
-    "id": 0,
     "host": "www.branch.pics.",
     "port": 443
   },
   {
     "secret": "dd00000000000000000000000000000000",
-    "id": 0,
     "host": "www.grandstream.click.",
     "port": 443
   },
   {
     "secret": "dd00000000000000000000000000000000",
-    "id": 0,
     "host": "www.ipify.icu.",
     "port": 443
   },
   {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayi.monaserver.cfd.",
-    "port": 8080
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "zaraz.dynu.com",
-    "port": 443
-  },
-  {
     "secret": "7tvikxn_uKfIq7OAYerm81NhZGVuZ2luZS50ZWxld2ViaW9uLmNvbQ==",
-    "id": 0,
     "host": "senator.bullshet.immo.",
     "port": 5443
   },
   {
     "secret": "7tvikxn_uKfIq7OAYerm81NmYS53b3JkcHJlc3Mub3Jn",
-    "id": 0,
     "host": "some.json.healthcare.",
     "port": 5443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABjZG5pbnN0YWdyYW0uY29t",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_tofight.with_everyone.im_the_internet.special_way.nic-works.mom.",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABjZG5pbnN0YWdyYW0uY29t",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_inter_net.special_way.kyoosho-off.science.",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABjZG5pbnN0YWdyYW0uY29t",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.kyosh-off.science.",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABjZG5pbnN0YWdyYW0uY29t",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_way.nicee-works.mom.",
     "port": 443
   },
   {
     "secret": "7lUPvpErJ3U_pUojxzuoBjR3ZWIucnViaWthLmNvbQ",
-    "id": 0,
     "host": "167.235.54.204",
     "port": 15443
   },
   {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "zaraz.dynu.com",
-    "port": 443
-  },
-  {
     "secret": "7jK5IN_7UWQwKOL2uHjU6sFpbnN0YWdyYW0uZnNqcDUtMS5mbmEuZmJjZG4ubmV0",
-    "id": 0,
     "host": "bro.now.lets.beginhghgj.we.are.here.todowpantigotitmudfuk.wwww.digikala.com.hjbiranserver.com.bing.com.gmail.com.nic.ir.thisisme.ir.mihanwebhost.ejhost.ir.987.entekab.hhdns.net.dynu.com.fck.noip.wihtip.witonti.jusucem.hehehee2e.nowabcde.iranairhoma.lol.",
     "port": 443
   },
   {
     "secret": "7hYDAQIAAQAB_AMDhuJMOt1jbG91ZC5kbnMyLWhldHpuZXIuY28udWs=",
-    "id": 0,
     "host": "server.cli-hetzner.skin",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABjZG5pbnN0YWdyYW0uY29t",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.nice-works.mom.",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABjZG5pbnN0YWdyYW0uY29t",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with.com.user_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.sandoqamanat.pics.",
     "port": 443
   },
   {
     "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzdGF0aWMud2hhdHNhcHAubmV0",
-    "id": 0,
     "host": "6cell.Kyosho-off.science",
     "port": 443
   },
   {
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1jbG91ZC5kbnMyLWhldHpuZXIuY28udWs=",
-    "id": 0,
-    "host": "server.cli-hetzner.skin",
-    "port": 443
-  },
-  {
     "secret": "7tqcE6Z_kfSrShEVlFXyFqE5b2NrLm5pY2Utd29yay5tb20",
-    "id": 0,
     "host": "tantanani.tabeta-tahani.ink.",
     "port": 443
   },
   {
     "secret": "eeda411655b684fe87abf58ec2235e281663646e696e7374616772616d2e636f6d",
-    "id": 0,
     "host": "sep.shaparak.ir.bpmellat.ir.rb24.ir.sina24.ir.abplus.ir.ba24.ir.shahr-bank.net.com.finnova.com.hetzner.deu.your-server.de.ovh.ie.bootstrap.pypa.io.leaseweb.net.persiaserver.com.iintern.fastandfurious-isthebest-movieseriesintheworld-changemymindheeh.cyou.",
     "port": 443
   },
   {
     "secret": "eeda411655b684fe87abf58ec2235e281663646e696e7374616772616d2e636f6d",
-    "id": 0,
     "host": "fml_asemancc.ir.roostaa.ir.sangemazarebehesht.com.peisez.ir.ketaabdaar.ir.jemper.ir.parsmachin.ir.drmarjanazarshab.ir.balkonsahand.ir.aticompany.co.kharid-sara.ir.wfkbf.org.rahbarancomplex.com.iranhankook.ir.bazzarled.ir.roobina-server-bertina-host.cyou.",
     "port": 443
   },
   {
     "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzdGF0aWMud2hhdHNhcHAubmV0",
-    "id": 0,
-    "host": "6cell.Kyosho-off.science",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzdGF0aWMud2hhdHNhcHAubmV0",
-    "id": 0,
     "host": "Nelson.Mandela.tea-rose.beauty",
     "port": 443
   },
   {
     "secret": "dd00000000000000000000000000000000",
-    "id": 0,
     "host": "www.linc.creditcard",
     "port": 443
   },
   {
     "secret": "eeda411655b684fe87abf58ec2235e281663646e696e7374616772616d2e636f6d",
-    "id": 0,
     "host": "tiw.al.jsk724.ir.rahbordconsulting.com.nosaziyazd.ir.samacctv.ir.mesbahmousavi.net.tehrancom.ir.espadparvazaria.ir.ashyan--gostar.com.markashop.ir.yaabalfazl.ir.gostareshbazar.ir.rahbarancomplex.com.segalint.co.leaderir-internetir-ponishair-snappir.site.",
     "port": 443
   },
   {
-    "secret": "7tvikxn_uKfIq7OAYerm81NmYS53b3JkcHJlc3Mub3Jn",
-    "id": 0,
-    "host": "some.json.healthcare.",
-    "port": 5443
-  },
-  {
-    "secret": "7tvikxn_uKfIq7OAYerm81NhZGVuZ2luZS50ZWxld2ViaW9uLmNvbQ==",
-    "id": 0,
-    "host": "senator.bullshet.immo.",
-    "port": 5443
-  },
-  {
     "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
     "host": "www2.cloudfront.beer.",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www.cloudfront.beer.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www2.cloudfront.beer.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www.cloudfront.beer.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www2.cloudfront.beer.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www.cloudfront.beer.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www2.cloudfront.beer.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
     "host": "www.cloudfront.beer.",
     "port": 443
   },
   {
     "secret": "eeda411655b684fe87abf58ec2235e281663646e696e7374616772616d2e636f6d",
-    "id": 0,
     "host": "rwdc.ir.drroshanimplant.com.copydvd.ir.fanavadc.com.abginefilm.ir.hamyartruck.ir.ava-sigas.com.windowtranslation.com.dedna.ir.post-alirezaix.ir.4-so.ir.metisclinic.ir.raisin377.com.atresabz.one.tiget.ir.all-anti-are-bega-and-you-come-to-changer-lol.cyou.",
     "port": 443
   },
   {
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1jbG91ZC5kbnMyLWhldHpuZXIuY28udWs=",
-    "id": 0,
-    "host": "server.cli-hetzner.skin",
-    "port": 443
-  },
-  {
     "secret": "7sI-q0__n3NxuWCh_8bITgFwYW5lbC5tb25pdG9yYm94LndlYmNhbQ",
-    "id": 0,
     "host": "Holoo.almanda-gym.ink.",
     "port": 88
   },
   {
-    "secret": "7tqcE6Z_kfSrShEVlFXyFqE5b2NrLm5pY2Utd29yay5tb20",
-    "id": 0,
-    "host": "tantanani.tabeta-tahani.ink.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "zaraz.dynu.com",
-    "port": 443
-  },
-  {
     "secret": "7jK5IN_7UWQwKOL2uHjU6sF3MS53ZWIud2hhdHNhcHAuY29t",
-    "id": 0,
     "host": "bro.now.lets.beginhghgj.we.are.here.todowpantigotitmudfuk.wwww.digikala.com.hjbiranserver.com.bing.com.gmail.com.nic.ir.thisisme.ir.mihanwebhost.ejhost.ir.987.entekab.hhdns.net.dynu.com.fck.noip.wihtip.witonti.jusucem.hehehee2e.nowabcde.iranairhoma.lol.",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with.com.user_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.sandoqamanat.pics.",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.nice-works.mom.",
     "port": 443
   },
   {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www2.cloudfront.beer.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www.cloudfront.beer.",
-    "port": 443
-  },
-  {
     "secret": "7vQ1mpsyX_HR5QhN8OD3U3t6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
     "host": "Nelson.Mandela.tea-rose.beauty",
     "port": 443
   },
   {
     "secret": "7vQ1mpsyX_HR5QhN8OD3U3t6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
     "host": "6cell.Kyosho-off.science",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.kyosh-off.science.",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_inter_net.special_way.kyoosho-off.science.",
     "port": 443
   },
   {
     "secret": "7gP1KCcAdeRVNnkDBdPY_SBkYXNoYm9yZC5tb25pdG9yYm94LndlYmNhbQ",
-    "id": 0,
     "host": "142.132.217.118",
     "port": 443
   },
   {
     "secret": "eeda411655b684fe87abf58ec2235e28167a2d7034322d696e7374616772616d2e633130722e66616365626f6f6b2e636f6d",
-    "id": 0,
     "host": "sep.shaparak.ir.bpmellat.ir.rb24.ir.sina24.ir.abplus.ir.ba24.ir.shahr-bank.net.com.finnova.com.hetzner.deu.your-server.de.ovh.ie.bootstrap.pypa.io.leaseweb.net.persiaserver.com.iintern.fastandfurious-isthebest-movieseriesintheworld-changemymindheeh.cyou.",
     "port": 443
   },
   {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_inter_net.special_way.kyoosho-off.science.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.kyosh-off.science.",
-    "port": 443
-  },
-  {
     "secret": "7jK5IN_7UWQwKOL2uHjU6sF6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayo.monaserver.cfd.",
     "port": 443
   },
   {
     "secret": "7s8J5YYVhvOdr-WqHy_58gVwYWdlLnByb2RvbWFpbnMuYmVhdXR5",
-    "id": 0,
     "host": "159.69.100.132",
     "port": 88
   },
   {
     "secret": "7s8J5YYVhvOdr-WqHy_58gVwYWdlLnByb2RvbWFpbnMuYmVhdXR5",
-    "id": 0,
     "host": "159.69.100.114",
     "port": 88
   },
   {
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1jbG91ZC5kbnMyLWhldHpuZXIuY28udWs=",
-    "id": 0,
-    "host": "server.cli-hetzner.skin",
-    "port": 443
-  },
-  {
     "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with.com.user_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.sandoqamanat.pics.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.nice-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "7tqcE6Z_kfSrShEVlFXyFqE5b2NrLm5pY2Utd29yay5tb20",
-    "id": 0,
-    "host": "tantanani.tabeta-tahani.ink.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_tofight.with_everyone.im_the_internet.special_way.nic-works.mom.",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_inter_net.special_way.kyoosho-off.science.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_way.nicee-works.mom.",
     "port": 443
   },
   {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.kyosh-off.science.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "zaraz.dynu.com",
-    "port": 443
-  },
-  {
     "secret": "7tvikxn_uKfIq7OAYerm81NmYS53b3JkcHJlc3Mub3Jn",
-    "id": 0,
     "host": "168.119.249.18",
     "port": 5443
   },
   {
     "secret": "7tvikxn_uKfIq7OAYerm81NmYS53b3JkcHJlc3Mub3Jn",
-    "id": 0,
     "host": "159.69.117.178",
     "port": 5443
   },
   {
     "secret": "ddda411655b684fe87abf58ec2235e2816",
-    "id": 0,
     "host": "fml_asemancc.ir.roostaa.ir.sangemazarebehesht.com.peisez.ir.ketaabdaar.ir.jemper.ir.parsmachin.ir.drmarjanazarshab.ir.balkonsahand.ir.aticompany.co.kharid-sara.ir.wfkbf.org.rahbarancomplex.com.iranhankook.ir.bazzarled.ir.roobina-server-bertina-host.cyou.",
     "port": 443
   },
   {
     "secret": "eeda411655b684fe87abf58ec2235e28167a2d7034322d696e7374616772616d2e633130722e66616365626f6f6b2e636f6d",
-    "id": 0,
     "host": "rwdc.ir.drroshanimplant.com.copydvd.ir.fanavadc.com.abginefilm.ir.hamyartruck.ir.ava-sigas.com.windowtranslation.com.dedna.ir.post-alirezaix.ir.4-so.ir.metisclinic.ir.raisin377.com.atresabz.one.tiget.ir.all-anti-are-bega-and-you-come-to-changer-lol.cyou.",
     "port": 443
   },
   {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with.com.user_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.sandoqamanat.pics.",
-    "port": 443
-  },
-  {
     "secret": "dd00000000000000000000000000000000",
-    "id": 0,
     "host": "www.mapbox.pics.",
     "port": 443
   },
   {
     "secret": "7sI-q0__n3NxuWCh_8bITgFkYXNoYm9yZC5tb25pdG9yYm94LndlYmNhbQ",
-    "id": 0,
     "host": "Battle-water.stalingrad-battle-ww2.ink.",
     "port": 443
   },
   {
     "secret": "7tvikxn_uKfIq7OAYerm81NhZGVuZ2luZS50ZWxld2ViaW9uLmNvbQ==",
-    "id": 0,
     "host": "157.90.245.50",
     "port": 5443
   },
   {
     "secret": "7tvikxn_uKfIq7OAYerm81NhZGVuZ2luZS50ZWxld2ViaW9uLmNvbQ==",
-    "id": 0,
     "host": "49.12.77.226",
     "port": 5443
   },
   {
     "secret": "7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==",
-    "id": 0,
     "host": "active.ko-nic.tienda.",
     "port": 443
   },
   {
     "secret": "7jK5IN_7UWQwKOL2uHjU6sFjZG5pbnN0YWdyYW0uY29t",
-    "id": 0,
     "host": "bing.com.google.com.digikala.com.myket.com.divar.ir.varzesh3.pw.aparat.com.torojoonemadaretkarkonkhasteshodamdigeenqadtestzadam.filterchipedaramodarovordibekeshbiroon.aparat.comgoogle.com.hsb.commopo.jdfigfjdsfhfdjhfdhfhdhd.soltane-tel-injas-heh.digital.",
     "port": 443
   },
   {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "zaraz.dynu.com",
-    "port": 443
-  },
-  {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABzdHJpcGUuY29t",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.kyosh-off.science.",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABzdHJpcGUuY29t",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_inter_net.special_way.kyoosho-off.science.",
     "port": 443
   },
   {
-    "secret": "7tqcE6Z_kfSrShEVlFXyFqE5b2NrLm5pY2Utd29yay5tb20",
-    "id": 0,
-    "host": "tantanani.tabeta-tahani.ink.",
-    "port": 443
-  },
-  {
     "secret": "7kmKkUc4qMagE2HNEC6C0PxzYWxhbS5raG9iaS1jaGV0b3J5LWZpbHRlcmluZz8uYmVraG9yZXNoLnVuby5pbw",
-    "id": 0,
     "host": "167.235.3.181",
     "port": 443
   },
   {
     "secret": "eeff87e8f515e106c185337c1b86701ded7765622d617263686976652e7a697261617462616e6b6173692e70696373",
-    "id": 0,
     "host": "web-archive.ziraatbankasi.pics",
     "port": 443
   },
   {
     "secret": "dd00000000000000000000000000000000",
-    "id": 0,
     "host": "www.parsvps.icu.",
     "port": 443
   },
   {
     "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.mapbox.pics.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
     "host": "www.wiley.work.",
     "port": 443
   },
   {
     "secret": "dd00000000000000000000000000000000",
-    "id": 0,
     "host": "my.irancell.ir.cityoflovers.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzdGF0aWMud2hhdHNhcHAubmV0",
-    "id": 0,
-    "host": "6cell.Kyosho-off.science",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzdGF0aWMud2hhdHNhcHAubmV0",
-    "id": 0,
-    "host": "Nelson.Mandela.tea-rose.beauty",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.wiley.work.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "my.irancell.ir.cityoflovers.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sF3MS53ZWIud2hhdHNhcHAuY29t",
-    "id": 0,
-    "host": "bro.now.lets.beginhghgj.we.are.here.todowpantigotitmudfuk.wwww.digikala.com.hjbiranserver.com.bing.com.gmail.com.nic.ir.thisisme.ir.mihanwebhost.ejhost.ir.987.entekab.hhdns.net.dynu.com.fck.noip.wihtip.witonti.jusucem.hehehee2e.nowabcde.iranairhoma.lol.",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sFpcmFuYWlyaG9tYS5jZmQ",
-    "id": 0,
-    "host": "het.warehere.again.to.defeets.got.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.nizcom.cloud",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with.com.user_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.sandoqamanat.pics.",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.nice-works.mom.",
     "port": 443
   },
   {
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1jbG91ZC5kbnMyLWhldHpuZXIuY28udWs=",
-    "id": 0,
-    "host": "server.cli-hetzner.skin",
-    "port": 443
-  },
-  {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_tofight.with_everyone.im_the_internet.special_way.nic-works.mom.",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_way.nicee-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_tofight.with_everyone.im_the_internet.special_way.nic-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_way.nicee-works.mom.",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABzbGFjay5jb20",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayo.monaserver.cfd.",
     "port": 443
   },
   {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sFpcmFuYWlyaG9tYS5jZmQ",
-    "id": 0,
-    "host": "het.warehere.again.to.defeets.got.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.nizcom.cloud",
-    "port": 443
-  },
-  {
     "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
     "host": "Sample.tea-rose.pics",
     "port": 443
   },
   {
     "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
     "host": "Nelson.Mandela.tea-rose.beauty",
     "port": 443
   },
   {
     "secret": "7hYDAQIAAQAB_AMDhuJMOt1zZXJ2ZXIuY2xpOC1oZXR6bmVyLmNvLnVr",
-    "id": 0,
     "host": "cloud.cli-hetzner.co.uk",
     "port": 443
   },
   {
-    "secret": "7tqcE6Z_kfSrShEVlFXyFqE5b2NrLm5pY2Utd29yay5tb20",
-    "id": 0,
-    "host": "tantanani.tabeta-tahani.ink.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "my.irancell.ir.cityoflovers.cyou.",
-    "port": 443
-  },
-  {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.kyosh-off.science.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.kyosh-off.science.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "my.irancell.ir.cityoflovers.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.parsvps.icu.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.nice-works.mom.",
     "port": 443
   },
   {
     "secret": "7tvikxn_uKfIq7OAYerm81Nicm93c2VyLnlhbmRleC5ydQ==",
-    "id": 0,
     "host": "78.47.90.222",
     "port": 443
   },
   {
     "secret": "7tvikxn_uKfIq7OAYerm81Nicm93c2VyLnlhbmRleC5ydQ==",
-    "id": 0,
     "host": "senator.bullshet.immo.",
     "port": 443
   },
   {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.ipify.icu.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.branch.pics.",
-    "port": 443
-  },
-  {
     "secret": "7jK5IN_7UWQwKOL2uHjU6sF3ZWIucnViaWthLm5ldA",
-    "id": 0,
     "host": "bing.com.google.com.digikala.com.myket.com.divar.ir.varzesh3.pw.aparat.com.torojoonemadaretkarkonkhasteshodamdigeenqadtestzadam.filterchipedaramodarovordibekeshbiroon.aparat.comgoogle.com.hsb.commopo.jdfigfjdsfhfdjhfdhfhdhd.soltane-tel-injas-heh.digital.",
     "port": 443
   },
   {
     "secret": "7onJL08k6fUST38law_u2HNwYW5lbC5tb25pdG9yYm94LndlYmNhbQ==",
-    "id": 0,
     "host": "null.univers-positive.bond",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABiY29tZS1kaW4ucmVzLmlv",
-    "id": 0,
     "host": "HI.arvancloud.date.rightel.online.",
     "port": 443
   },
   {
     "secret": "7gAAAAAAAAAAAAAAAAAAAAB3d3cucnViaWthLmFicmlrYS5hbXJpY2EuZnVu",
-    "id": 0,
     "host": "AD.Ir.ns2.lib.arvancloud.com.arvancloud.sbs.",
     "port": 443
   },
   {
-    "secret": "ddda411655b684fe87abf58ec2235e2816",
-    "id": 0,
-    "host": "fml_asemancc.ir.roostaa.ir.sangemazarebehesht.com.peisez.ir.ketaabdaar.ir.jemper.ir.parsmachin.ir.drmarjanazarshab.ir.balkonsahand.ir.aticompany.co.kharid-sara.ir.wfkbf.org.rahbarancomplex.com.iranhankook.ir.bazzarled.ir.roobina-server-bertina-host.cyou.",
-    "port": 443
-  },
-  {
     "secret": "eeda411655b684fe87abf58ec2235e28167374726970652e636f6d",
-    "id": 0,
     "host": "payam_golp.ac.ir.hoomanbaghban.com.nilosms.ir.snha.ir.dandan-pezeshki.com.kub.ac.ir.wimsky.ir.just_digital.ir.rahvardkhorasan.com.wideidea.ir.irandaikin.ir.ehsanrastgar.com.98mall.ir.aveejeh.ir.weg_mefa.ir.gallerymother.ir.joombarg.ir.ziraatbankasi.pics.",
     "port": 443
   },
   {
     "secret": "7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==",
-    "id": 0,
     "host": "blackmail.ko-nic.kaufen.",
     "port": 443
   },
   {
-    "secret": "ddda411655b684fe87abf58ec2235e2816",
-    "id": 0,
-    "host": "fml_asemancc.ir.roostaa.ir.sangemazarebehesht.com.peisez.ir.ketaabdaar.ir.jemper.ir.parsmachin.ir.drmarjanazarshab.ir.balkonsahand.ir.aticompany.co.kharid-sara.ir.wfkbf.org.rahbarancomplex.com.iranhankook.ir.bazzarled.ir.roobina-server-bertina-host.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "eeda411655b684fe87abf58ec2235e28167374726970652e636f6d",
-    "id": 0,
-    "host": "payam_golp.ac.ir.hoomanbaghban.com.nilosms.ir.snha.ir.dandan-pezeshki.com.kub.ac.ir.wimsky.ir.just_digital.ir.rahvardkhorasan.com.wideidea.ir.irandaikin.ir.ehsanrastgar.com.98mall.ir.aveejeh.ir.weg_mefa.ir.gallerymother.ir.joombarg.ir.ziraatbankasi.pics.",
-    "port": 443
-  },
-  {
     "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "my.irancell.ir.cityoflovers.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.ipify.icu.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.parsvps.icu.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
     "host": "www.eager.fun",
     "port": 443
   },
   {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sF3ZWIucnViaWthLm5ldA",
-    "id": 0,
-    "host": "bing.com.google.com.digikala.com.myket.com.divar.ir.varzesh3.pw.aparat.com.torojoonemadaretkarkonkhasteshodamdigeenqadtestzadam.filterchipedaramodarovordibekeshbiroon.aparat.comgoogle.com.hsb.commopo.jdfigfjdsfhfdjhfdhfhdhd.soltane-tel-injas-heh.digital.",
-    "port": 443
-  },
-  {
-    "secret": "7onJL08k6fUST38law_u2HNwYW5lbC5tb25pdG9yYm94LndlYmNhbQ==",
-    "id": 0,
-    "host": "null.univers-positive.bond",
-    "port": 443
-  },
-  {
     "secret": "7pf-z_7P_s_-z_7P_s_-z_5taXpiYW5mYS5uZXQ=",
-    "id": 0,
     "host": "142.132.188.240",
     "port": 88
   },
   {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.2onya.photography.",
-    "port": 443
-  },
-  {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw",
-    "id": 0,
     "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayo.monaserver.cfd.",
     "port": 443
   },
   {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sFpcmFuYWlyaG9tYS5jZmQ",
-    "id": 0,
-    "host": "het.warehere.again.to.defeets.got.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.nizcom.cloud",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_tofight.with_everyone.im_the_internet.special_way.nic-works.mom.",
-    "port": 443
-  },
-  {
     "secret": "dd00000000000000000000000000000000",
-    "id": 0,
     "host": "www.digiglobal.autos.",
     "port": 443
   },
   {
     "secret": "7sI-q0__n3NxuWCh_8bITgFtYW5hZ2VyLm1vbml0b3Jib3gud2ViY2Ft",
-    "id": 0,
     "host": "tantanani.tabeta-tahani.ink.",
     "port": 543
   },
   {
     "secret": "7tvikxn_uKfIq7OAYerm81NzdGRuLmlhdS5hYy5pcg==",
-    "id": 0,
     "host": "136.243.92.223",
     "port": 443
   },
   {
-    "secret": "7tvikxn_uKfIq7OAYerm81Nicm93c2VyLnlhbmRleC5ydQ==",
-    "id": 0,
-    "host": "senator.bullshet.immo.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "my.irancell.ir.cityoflovers.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.ipify.icu.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayo.monaserver.cfd.",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sFpcmFuYWlyaG9tYS5jZmQ",
-    "id": 0,
-    "host": "het.warehere.again.to.defeets.got.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.nizcom.cloud",
-    "port": 443
-  },
-  {
     "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
     "host": "bull.univers-positive.bond",
     "port": 443
   },
   {
     "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
     "host": "sync.scenic-saunter.works",
     "port": 443
   },
   {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABiY29tZS1kaW4ucmVzLmlv",
-    "id": 0,
-    "host": "HI.arvancloud.date.rightel.online.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB3d3cucnViaWthLmFicmlrYS5hbXJpY2EuZnVu",
-    "id": 0,
-    "host": "AD.Ir.ns2.lib.arvancloud.com.arvancloud.sbs.",
-    "port": 443
-  },
-  {
-    "secret": "7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==",
-    "id": 0,
-    "host": "blackmail.ko-nic.kaufen.",
-    "port": 443
-  },
-  {
-    "secret": "ddda411655b684fe87abf58ec2235e2816",
-    "id": 0,
-    "host": "fml_asemancc.ir.roostaa.ir.sangemazarebehesht.com.peisez.ir.ketaabdaar.ir.jemper.ir.parsmachin.ir.drmarjanazarshab.ir.balkonsahand.ir.aticompany.co.kharid-sara.ir.wfkbf.org.rahbarancomplex.com.iranhankook.ir.bazzarled.ir.roobina-server-bertina-host.cyou.",
-    "port": 443
-  },
-  {
     "secret": "eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574",
-    "id": 0,
     "host": "sep.shaparak.ir.bpmellat.ir.rb24.ir.sina24.ir.abplus.ir.ba24.ir.shahr-bank.net.com.finnova.com.hetzner.deu.your-server.de.ovh.ie.bootstrap.pypa.io.leaseweb.net.persiaserver.com.iintern.fastandfurious-isthebest-movieseriesintheworld-changemymindheeh.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "bull.univers-positive.bond",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "sync.scenic-saunter.works",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.parsvps.icu.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.eager.fun",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_tofight.with_everyone.im_the_internet.special_way.nic-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.grandstream.click.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "my.irancell.ir.cityoflovers.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.ipify.icu.",
-    "port": 443
-  },
-  {
-    "secret": "ddda411655b684fe87abf58ec2235e2816",
-    "id": 0,
-    "host": "fml_asemancc.ir.roostaa.ir.sangemazarebehesht.com.peisez.ir.ketaabdaar.ir.jemper.ir.parsmachin.ir.drmarjanazarshab.ir.balkonsahand.ir.aticompany.co.kharid-sara.ir.wfkbf.org.rahbarancomplex.com.iranhankook.ir.bazzarled.ir.roobina-server-bertina-host.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574",
-    "id": 0,
-    "host": "sep.shaparak.ir.bpmellat.ir.rb24.ir.sina24.ir.abplus.ir.ba24.ir.shahr-bank.net.com.finnova.com.hetzner.deu.your-server.de.ovh.ie.bootstrap.pypa.io.leaseweb.net.persiaserver.com.iintern.fastandfurious-isthebest-movieseriesintheworld-changemymindheeh.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayo.monaserver.cfd.",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sFpcmFuYWlyaG9tYS5jZmQ",
-    "id": 0,
-    "host": "het.warehere.again.to.defeets.got.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.nizcom.cloud",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.parsvps.icu.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.eager.fun",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.2onya.photography.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.branch.pics.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.wiley.work.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.grandstream.click.",
     "port": 443
   },
   {
     "secret": "7sI-q0__n3NxuWCh_8bITgFtYW5hZ2VyLm1vbml0b3Jib3gud2ViY2Ft",
-    "id": 0,
     "host": "beauty.web-pointcamera.actor.",
     "port": 88
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "my.irancell.ir.cityoflovers.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.ipify.icu.",
-    "port": 443
-  },
-  {
-    "secret": "7onJL08k6fUST38law_u2HNkbXl3ZWIuY2xvdWRmcm9udC5uZXQ",
-    "id": 0,
-    "host": "116.203.220.231",
-    "port": 443
-  },
-  {
-    "secret": "7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw",
-    "id": 0,
-    "host": "All.fitness-bike.boston.",
-    "port": 88
-  },
-  {
-    "secret": "7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw",
-    "id": 0,
-    "host": "Hernanndes.fitness-bike.boston.",
-    "port": 88
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayi.monaserver.cfd.",
-    "port": 8080
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "zaraz.dynu.com",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sFkMTg2cml4a241cnViYS5jbG91ZGZyb250Lm5ldA",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayo.monaserver.cfd.",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sFpcmFuYWlyaG9tYS5jZmQ",
-    "id": 0,
-    "host": "het.warehere.again.to.defeets.got.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.nizcom.cloud",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.2onya.photography.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.branch.pics.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.grandstream.click.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.ipify.icu.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayi.monaserver.cfd.",
-    "port": 8080
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "zaraz.dynu.com",
-    "port": 443
-  },
-  {
-    "secret": "7tvikxn_uKfIq7OAYerm81NhZGVuZ2luZS50ZWxld2ViaW9uLmNvbQ==",
-    "id": 0,
-    "host": "senator.bullshet.immo.",
-    "port": 5443
-  },
-  {
-    "secret": "7tvikxn_uKfIq7OAYerm81NmYS53b3JkcHJlc3Mub3Jn",
-    "id": 0,
-    "host": "some.json.healthcare.",
-    "port": 5443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABjZG5pbnN0YWdyYW0uY29t",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_tofight.with_everyone.im_the_internet.special_way.nic-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABjZG5pbnN0YWdyYW0uY29t",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_inter_net.special_way.kyoosho-off.science.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABjZG5pbnN0YWdyYW0uY29t",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.kyosh-off.science.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABjZG5pbnN0YWdyYW0uY29t",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_way.nicee-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "7lUPvpErJ3U_pUojxzuoBjR3ZWIucnViaWthLmNvbQ",
-    "id": 0,
-    "host": "167.235.54.204",
-    "port": 15443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "zaraz.dynu.com",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sFpbnN0YWdyYW0uZnNqcDUtMS5mbmEuZmJjZG4ubmV0",
-    "id": 0,
-    "host": "bro.now.lets.beginhghgj.we.are.here.todowpantigotitmudfuk.wwww.digikala.com.hjbiranserver.com.bing.com.gmail.com.nic.ir.thisisme.ir.mihanwebhost.ejhost.ir.987.entekab.hhdns.net.dynu.com.fck.noip.wihtip.witonti.jusucem.hehehee2e.nowabcde.iranairhoma.lol.",
-    "port": 443
-  },
-  {
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1jbG91ZC5kbnMyLWhldHpuZXIuY28udWs=",
-    "id": 0,
-    "host": "server.cli-hetzner.skin",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABjZG5pbnN0YWdyYW0uY29t",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.nice-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABjZG5pbnN0YWdyYW0uY29t",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with.com.user_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.sandoqamanat.pics.",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzdGF0aWMud2hhdHNhcHAubmV0",
-    "id": 0,
-    "host": "6cell.Kyosho-off.science",
-    "port": 443
-  },
-  {
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1jbG91ZC5kbnMyLWhldHpuZXIuY28udWs=",
-    "id": 0,
-    "host": "server.cli-hetzner.skin",
-    "port": 443
-  },
-  {
-    "secret": "7tqcE6Z_kfSrShEVlFXyFqE5b2NrLm5pY2Utd29yay5tb20",
-    "id": 0,
-    "host": "tantanani.tabeta-tahani.ink.",
-    "port": 443
-  },
-  {
-    "secret": "eeda411655b684fe87abf58ec2235e281663646e696e7374616772616d2e636f6d",
-    "id": 0,
-    "host": "sep.shaparak.ir.bpmellat.ir.rb24.ir.sina24.ir.abplus.ir.ba24.ir.shahr-bank.net.com.finnova.com.hetzner.deu.your-server.de.ovh.ie.bootstrap.pypa.io.leaseweb.net.persiaserver.com.iintern.fastandfurious-isthebest-movieseriesintheworld-changemymindheeh.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "eeda411655b684fe87abf58ec2235e281663646e696e7374616772616d2e636f6d",
-    "id": 0,
-    "host": "fml_asemancc.ir.roostaa.ir.sangemazarebehesht.com.peisez.ir.ketaabdaar.ir.jemper.ir.parsmachin.ir.drmarjanazarshab.ir.balkonsahand.ir.aticompany.co.kharid-sara.ir.wfkbf.org.rahbarancomplex.com.iranhankook.ir.bazzarled.ir.roobina-server-bertina-host.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzdGF0aWMud2hhdHNhcHAubmV0",
-    "id": 0,
-    "host": "6cell.Kyosho-off.science",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzdGF0aWMud2hhdHNhcHAubmV0",
-    "id": 0,
-    "host": "Nelson.Mandela.tea-rose.beauty",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.linc.creditcard",
-    "port": 443
-  },
-  {
-    "secret": "eeda411655b684fe87abf58ec2235e281663646e696e7374616772616d2e636f6d",
-    "id": 0,
-    "host": "tiw.al.jsk724.ir.rahbordconsulting.com.nosaziyazd.ir.samacctv.ir.mesbahmousavi.net.tehrancom.ir.espadparvazaria.ir.ashyan--gostar.com.markashop.ir.yaabalfazl.ir.gostareshbazar.ir.rahbarancomplex.com.segalint.co.leaderir-internetir-ponishair-snappir.site.",
-    "port": 443
-  },
-  {
-    "secret": "7tvikxn_uKfIq7OAYerm81NmYS53b3JkcHJlc3Mub3Jn",
-    "id": 0,
-    "host": "some.json.healthcare.",
-    "port": 5443
-  },
-  {
-    "secret": "7tvikxn_uKfIq7OAYerm81NhZGVuZ2luZS50ZWxld2ViaW9uLmNvbQ==",
-    "id": 0,
-    "host": "senator.bullshet.immo.",
-    "port": 5443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www2.cloudfront.beer.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www.cloudfront.beer.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www2.cloudfront.beer.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www.cloudfront.beer.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www2.cloudfront.beer.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www.cloudfront.beer.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www2.cloudfront.beer.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www.cloudfront.beer.",
-    "port": 443
-  },
-  {
-    "secret": "eeda411655b684fe87abf58ec2235e281663646e696e7374616772616d2e636f6d",
-    "id": 0,
-    "host": "rwdc.ir.drroshanimplant.com.copydvd.ir.fanavadc.com.abginefilm.ir.hamyartruck.ir.ava-sigas.com.windowtranslation.com.dedna.ir.post-alirezaix.ir.4-so.ir.metisclinic.ir.raisin377.com.atresabz.one.tiget.ir.all-anti-are-bega-and-you-come-to-changer-lol.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1jbG91ZC5kbnMyLWhldHpuZXIuY28udWs=",
-    "id": 0,
-    "host": "server.cli-hetzner.skin",
-    "port": 443
   },
   {
     "secret": "7sI-q0__n3NxuWCh_8bITgFwYW5lbC5tb25pdG9yYm94LndlYmNhbQ",
-    "id": 0,
-    "host": "Holoo.almanda-gym.ink.",
-    "port": 88
-  },
-  {
-    "secret": "7tqcE6Z_kfSrShEVlFXyFqE5b2NrLm5pY2Utd29yay5tb20",
-    "id": 0,
-    "host": "tantanani.tabeta-tahani.ink.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "zaraz.dynu.com",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sF3MS53ZWIud2hhdHNhcHAuY29t",
-    "id": 0,
-    "host": "bro.now.lets.beginhghgj.we.are.here.todowpantigotitmudfuk.wwww.digikala.com.hjbiranserver.com.bing.com.gmail.com.nic.ir.thisisme.ir.mihanwebhost.ejhost.ir.987.entekab.hhdns.net.dynu.com.fck.noip.wihtip.witonti.jusucem.hehehee2e.nowabcde.iranairhoma.lol.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with.com.user_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.sandoqamanat.pics.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.nice-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www2.cloudfront.beer.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "www.cloudfront.beer.",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3t6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "Nelson.Mandela.tea-rose.beauty",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3t6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "6cell.Kyosho-off.science",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.kyosh-off.science.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_inter_net.special_way.kyoosho-off.science.",
-    "port": 443
-  },
-  {
-    "secret": "7gP1KCcAdeRVNnkDBdPY_SBkYXNoYm9yZC5tb25pdG9yYm94LndlYmNhbQ",
-    "id": 0,
-    "host": "142.132.217.118",
-    "port": 443
-  },
-  {
-    "secret": "eeda411655b684fe87abf58ec2235e28167a2d7034322d696e7374616772616d2e633130722e66616365626f6f6b2e636f6d",
-    "id": 0,
-    "host": "sep.shaparak.ir.bpmellat.ir.rb24.ir.sina24.ir.abplus.ir.ba24.ir.shahr-bank.net.com.finnova.com.hetzner.deu.your-server.de.ovh.ie.bootstrap.pypa.io.leaseweb.net.persiaserver.com.iintern.fastandfurious-isthebest-movieseriesintheworld-changemymindheeh.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_inter_net.special_way.kyoosho-off.science.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.kyosh-off.science.",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sF6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayo.monaserver.cfd.",
-    "port": 443
-  },
-  {
-    "secret": "7s8J5YYVhvOdr-WqHy_58gVwYWdlLnByb2RvbWFpbnMuYmVhdXR5",
-    "id": 0,
-    "host": "159.69.100.132",
-    "port": 88
-  },
-  {
-    "secret": "7s8J5YYVhvOdr-WqHy_58gVwYWdlLnByb2RvbWFpbnMuYmVhdXR5",
-    "id": 0,
-    "host": "159.69.100.114",
-    "port": 88
-  },
-  {
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1jbG91ZC5kbnMyLWhldHpuZXIuY28udWs=",
-    "id": 0,
-    "host": "server.cli-hetzner.skin",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with.com.user_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.sandoqamanat.pics.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.nice-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "7tqcE6Z_kfSrShEVlFXyFqE5b2NrLm5pY2Utd29yay5tb20",
-    "id": 0,
-    "host": "tantanani.tabeta-tahani.ink.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_tofight.with_everyone.im_the_internet.special_way.nic-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_inter_net.special_way.kyoosho-off.science.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_way.nicee-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.kyosh-off.science.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "zaraz.dynu.com",
-    "port": 443
-  },
-  {
-    "secret": "7tvikxn_uKfIq7OAYerm81NmYS53b3JkcHJlc3Mub3Jn",
-    "id": 0,
-    "host": "168.119.249.18",
-    "port": 5443
-  },
-  {
-    "secret": "7tvikxn_uKfIq7OAYerm81NmYS53b3JkcHJlc3Mub3Jn",
-    "id": 0,
-    "host": "159.69.117.178",
-    "port": 5443
-  },
-  {
-    "secret": "ddda411655b684fe87abf58ec2235e2816",
-    "id": 0,
-    "host": "fml_asemancc.ir.roostaa.ir.sangemazarebehesht.com.peisez.ir.ketaabdaar.ir.jemper.ir.parsmachin.ir.drmarjanazarshab.ir.balkonsahand.ir.aticompany.co.kharid-sara.ir.wfkbf.org.rahbarancomplex.com.iranhankook.ir.bazzarled.ir.roobina-server-bertina-host.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "eeda411655b684fe87abf58ec2235e28167a2d7034322d696e7374616772616d2e633130722e66616365626f6f6b2e636f6d",
-    "id": 0,
-    "host": "rwdc.ir.drroshanimplant.com.copydvd.ir.fanavadc.com.abginefilm.ir.hamyartruck.ir.ava-sigas.com.windowtranslation.com.dedna.ir.post-alirezaix.ir.4-so.ir.metisclinic.ir.raisin377.com.atresabz.one.tiget.ir.all-anti-are-bega-and-you-come-to-changer-lol.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB6LXA0Mi1pbnN0YWdyYW0uYzEwci5mYWNlYm9vay5jb20=",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with.com.user_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.sandoqamanat.pics.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.mapbox.pics.",
-    "port": 443
-  },
-  {
-    "secret": "7sI-q0__n3NxuWCh_8bITgFkYXNoYm9yZC5tb25pdG9yYm94LndlYmNhbQ",
-    "id": 0,
     "host": "Battle-water.stalingrad-battle-ww2.ink.",
-    "port": 443
-  },
-  {
-    "secret": "7tvikxn_uKfIq7OAYerm81NhZGVuZ2luZS50ZWxld2ViaW9uLmNvbQ==",
-    "id": 0,
-    "host": "157.90.245.50",
-    "port": 5443
-  },
-  {
-    "secret": "7tvikxn_uKfIq7OAYerm81NhZGVuZ2luZS50ZWxld2ViaW9uLmNvbQ==",
-    "id": 0,
-    "host": "49.12.77.226",
-    "port": 5443
-  },
-  {
-    "secret": "7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==",
-    "id": 0,
-    "host": "active.ko-nic.tienda.",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sFjZG5pbnN0YWdyYW0uY29t",
-    "id": 0,
-    "host": "bing.com.google.com.digikala.com.myket.com.divar.ir.varzesh3.pw.aparat.com.torojoonemadaretkarkonkhasteshodamdigeenqadtestzadam.filterchipedaramodarovordibekeshbiroon.aparat.comgoogle.com.hsb.commopo.jdfigfjdsfhfdjhfdhfhdhd.soltane-tel-injas-heh.digital.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "zaraz.dynu.com",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzdHJpcGUuY29t",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.kyosh-off.science.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzdHJpcGUuY29t",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_inter_net.special_way.kyoosho-off.science.",
-    "port": 443
-  },
-  {
-    "secret": "7tqcE6Z_kfSrShEVlFXyFqE5b2NrLm5pY2Utd29yay5tb20",
-    "id": 0,
-    "host": "tantanani.tabeta-tahani.ink.",
-    "port": 443
-  },
-  {
-    "secret": "7kmKkUc4qMagE2HNEC6C0PxzYWxhbS5raG9iaS1jaGV0b3J5LWZpbHRlcmluZz8uYmVraG9yZXNoLnVuby5pbw",
-    "id": 0,
-    "host": "167.235.3.181",
-    "port": 443
-  },
-  {
-    "secret": "eeff87e8f515e106c185337c1b86701ded7765622d617263686976652e7a697261617462616e6b6173692e70696373",
-    "id": 0,
-    "host": "web-archive.ziraatbankasi.pics",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.parsvps.icu.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.mapbox.pics.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.wiley.work.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "my.irancell.ir.cityoflovers.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzdGF0aWMud2hhdHNhcHAubmV0",
-    "id": 0,
-    "host": "6cell.Kyosho-off.science",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzdGF0aWMud2hhdHNhcHAubmV0",
-    "id": 0,
-    "host": "Nelson.Mandela.tea-rose.beauty",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.wiley.work.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "my.irancell.ir.cityoflovers.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sF3MS53ZWIud2hhdHNhcHAuY29t",
-    "id": 0,
-    "host": "bro.now.lets.beginhghgj.we.are.here.todowpantigotitmudfuk.wwww.digikala.com.hjbiranserver.com.bing.com.gmail.com.nic.ir.thisisme.ir.mihanwebhost.ejhost.ir.987.entekab.hhdns.net.dynu.com.fck.noip.wihtip.witonti.jusucem.hehehee2e.nowabcde.iranairhoma.lol.",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sFpcmFuYWlyaG9tYS5jZmQ",
-    "id": 0,
-    "host": "het.warehere.again.to.defeets.got.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.nizcom.cloud",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with.com.user_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.sandoqamanat.pics.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.nice-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1jbG91ZC5kbnMyLWhldHpuZXIuY28udWs=",
-    "id": 0,
-    "host": "server.cli-hetzner.skin",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_tofight.with_everyone.im_the_internet.special_way.nic-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_way.nicee-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_tofight.with_everyone.im_the_internet.special_way.nic-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_way.nicee-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzbGFjay5jb20",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayo.monaserver.cfd.",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sFpcmFuYWlyaG9tYS5jZmQ",
-    "id": 0,
-    "host": "het.warehere.again.to.defeets.got.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.nizcom.cloud",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "Sample.tea-rose.pics",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "Nelson.Mandela.tea-rose.beauty",
-    "port": 443
-  },
-  {
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1zZXJ2ZXIuY2xpOC1oZXR6bmVyLmNvLnVr",
-    "id": 0,
-    "host": "cloud.cli-hetzner.co.uk",
-    "port": 443
-  },
-  {
-    "secret": "7tqcE6Z_kfSrShEVlFXyFqE5b2NrLm5pY2Utd29yay5tb20",
-    "id": 0,
-    "host": "tantanani.tabeta-tahani.ink.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "my.irancell.ir.cityoflovers.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.kyosh-off.science.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.kyosh-off.science.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "my.irancell.ir.cityoflovers.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.parsvps.icu.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_way.nice-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "7tvikxn_uKfIq7OAYerm81Nicm93c2VyLnlhbmRleC5ydQ==",
-    "id": 0,
-    "host": "78.47.90.222",
-    "port": 443
-  },
-  {
-    "secret": "7tvikxn_uKfIq7OAYerm81Nicm93c2VyLnlhbmRleC5ydQ==",
-    "id": 0,
-    "host": "senator.bullshet.immo.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.ipify.icu.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.branch.pics.",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sF3ZWIucnViaWthLm5ldA",
-    "id": 0,
-    "host": "bing.com.google.com.digikala.com.myket.com.divar.ir.varzesh3.pw.aparat.com.torojoonemadaretkarkonkhasteshodamdigeenqadtestzadam.filterchipedaramodarovordibekeshbiroon.aparat.comgoogle.com.hsb.commopo.jdfigfjdsfhfdjhfdhfhdhd.soltane-tel-injas-heh.digital.",
-    "port": 443
-  },
-  {
-    "secret": "7onJL08k6fUST38law_u2HNwYW5lbC5tb25pdG9yYm94LndlYmNhbQ==",
-    "id": 0,
-    "host": "null.univers-positive.bond",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABiY29tZS1kaW4ucmVzLmlv",
-    "id": 0,
-    "host": "HI.arvancloud.date.rightel.online.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB3d3cucnViaWthLmFicmlrYS5hbXJpY2EuZnVu",
-    "id": 0,
-    "host": "AD.Ir.ns2.lib.arvancloud.com.arvancloud.sbs.",
-    "port": 443
-  },
-  {
-    "secret": "ddda411655b684fe87abf58ec2235e2816",
-    "id": 0,
-    "host": "fml_asemancc.ir.roostaa.ir.sangemazarebehesht.com.peisez.ir.ketaabdaar.ir.jemper.ir.parsmachin.ir.drmarjanazarshab.ir.balkonsahand.ir.aticompany.co.kharid-sara.ir.wfkbf.org.rahbarancomplex.com.iranhankook.ir.bazzarled.ir.roobina-server-bertina-host.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "eeda411655b684fe87abf58ec2235e28167374726970652e636f6d",
-    "id": 0,
-    "host": "payam_golp.ac.ir.hoomanbaghban.com.nilosms.ir.snha.ir.dandan-pezeshki.com.kub.ac.ir.wimsky.ir.just_digital.ir.rahvardkhorasan.com.wideidea.ir.irandaikin.ir.ehsanrastgar.com.98mall.ir.aveejeh.ir.weg_mefa.ir.gallerymother.ir.joombarg.ir.ziraatbankasi.pics.",
-    "port": 443
-  },
-  {
-    "secret": "7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==",
-    "id": 0,
-    "host": "blackmail.ko-nic.kaufen.",
-    "port": 443
-  },
-  {
-    "secret": "ddda411655b684fe87abf58ec2235e2816",
-    "id": 0,
-    "host": "fml_asemancc.ir.roostaa.ir.sangemazarebehesht.com.peisez.ir.ketaabdaar.ir.jemper.ir.parsmachin.ir.drmarjanazarshab.ir.balkonsahand.ir.aticompany.co.kharid-sara.ir.wfkbf.org.rahbarancomplex.com.iranhankook.ir.bazzarled.ir.roobina-server-bertina-host.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "eeda411655b684fe87abf58ec2235e28167374726970652e636f6d",
-    "id": 0,
-    "host": "payam_golp.ac.ir.hoomanbaghban.com.nilosms.ir.snha.ir.dandan-pezeshki.com.kub.ac.ir.wimsky.ir.just_digital.ir.rahvardkhorasan.com.wideidea.ir.irandaikin.ir.ehsanrastgar.com.98mall.ir.aveejeh.ir.weg_mefa.ir.gallerymother.ir.joombarg.ir.ziraatbankasi.pics.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "my.irancell.ir.cityoflovers.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.ipify.icu.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.parsvps.icu.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.eager.fun",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sF3ZWIucnViaWthLm5ldA",
-    "id": 0,
-    "host": "bing.com.google.com.digikala.com.myket.com.divar.ir.varzesh3.pw.aparat.com.torojoonemadaretkarkonkhasteshodamdigeenqadtestzadam.filterchipedaramodarovordibekeshbiroon.aparat.comgoogle.com.hsb.commopo.jdfigfjdsfhfdjhfdhfhdhd.soltane-tel-injas-heh.digital.",
-    "port": 443
-  },
-  {
-    "secret": "7onJL08k6fUST38law_u2HNwYW5lbC5tb25pdG9yYm94LndlYmNhbQ==",
-    "id": 0,
-    "host": "null.univers-positive.bond",
-    "port": 443
-  },
-  {
-    "secret": "7pf-z_7P_s_-z_7P_s_-z_5taXpiYW5mYS5uZXQ=",
-    "id": 0,
-    "host": "142.132.188.240",
     "port": 88
   },
   {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.2onya.photography.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayo.monaserver.cfd.",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sFpcmFuYWlyaG9tYS5jZmQ",
-    "id": 0,
-    "host": "het.warehere.again.to.defeets.got.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.nizcom.cloud",
-    "port": 443
-  },
-  {
     "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_tofight.with_everyone.im_the_internet.special_way.nic-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.digiglobal.autos.",
+    "host": "ash.com.nkia.com.co.uk.do_yo.wflreant_to.clash_with.this.wihww.microoft.com.thre_is_no.place_like.localhost.www.bing.com.count_with.com.user_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_interfet.specifal_way.ili-institute.beauty.",
     "port": 443
   },
   {
     "secret": "7sI-q0__n3NxuWCh_8bITgFtYW5hZ2VyLm1vbml0b3Jib3gud2ViY2Ft",
-    "id": 0,
-    "host": "tantanani.tabeta-tahani.ink.",
+    "host": "Emergency.ba-budane-to.boston.",
     "port": 543
-  },
-  {
-    "secret": "7tvikxn_uKfIq7OAYerm81NzdGRuLmlhdS5hYy5pcg==",
-    "id": 0,
-    "host": "136.243.92.223",
-    "port": 443
-  },
-  {
-    "secret": "7tvikxn_uKfIq7OAYerm81Nicm93c2VyLnlhbmRleC5ydQ==",
-    "id": 0,
-    "host": "senator.bullshet.immo.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "my.irancell.ir.cityoflovers.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.ipify.icu.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayo.monaserver.cfd.",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sFpcmFuYWlyaG9tYS5jZmQ",
-    "id": 0,
-    "host": "het.warehere.again.to.defeets.got.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.nizcom.cloud",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "bull.univers-positive.bond",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "sync.scenic-saunter.works",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABiY29tZS1kaW4ucmVzLmlv",
-    "id": 0,
-    "host": "HI.arvancloud.date.rightel.online.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAAB3d3cucnViaWthLmFicmlrYS5hbXJpY2EuZnVu",
-    "id": 0,
-    "host": "AD.Ir.ns2.lib.arvancloud.com.arvancloud.sbs.",
-    "port": 443
-  },
-  {
-    "secret": "7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==",
-    "id": 0,
-    "host": "blackmail.ko-nic.kaufen.",
-    "port": 443
-  },
-  {
-    "secret": "ddda411655b684fe87abf58ec2235e2816",
-    "id": 0,
-    "host": "fml_asemancc.ir.roostaa.ir.sangemazarebehesht.com.peisez.ir.ketaabdaar.ir.jemper.ir.parsmachin.ir.drmarjanazarshab.ir.balkonsahand.ir.aticompany.co.kharid-sara.ir.wfkbf.org.rahbarancomplex.com.iranhankook.ir.bazzarled.ir.roobina-server-bertina-host.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574",
-    "id": 0,
-    "host": "sep.shaparak.ir.bpmellat.ir.rb24.ir.sina24.ir.abplus.ir.ba24.ir.shahr-bank.net.com.finnova.com.hetzner.deu.your-server.de.ovh.ie.bootstrap.pypa.io.leaseweb.net.persiaserver.com.iintern.fastandfurious-isthebest-movieseriesintheworld-changemymindheeh.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "bull.univers-positive.bond",
-    "port": 443
-  },
-  {
-    "secret": "7vQ1mpsyX_HR5QhN8OD3U3tzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "sync.scenic-saunter.works",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.parsvps.icu.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.eager.fun",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw==",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_tofight.with_everyone.im_the_internet.special_way.nic-works.mom.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.grandstream.click.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "my.irancell.ir.cityoflovers.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.ipify.icu.",
-    "port": 443
-  },
-  {
-    "secret": "ddda411655b684fe87abf58ec2235e2816",
-    "id": 0,
-    "host": "fml_asemancc.ir.roostaa.ir.sangemazarebehesht.com.peisez.ir.ketaabdaar.ir.jemper.ir.parsmachin.ir.drmarjanazarshab.ir.balkonsahand.ir.aticompany.co.kharid-sara.ir.wfkbf.org.rahbarancomplex.com.iranhankook.ir.bazzarled.ir.roobina-server-bertina-host.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574",
-    "id": 0,
-    "host": "sep.shaparak.ir.bpmellat.ir.rb24.ir.sina24.ir.abplus.ir.ba24.ir.shahr-bank.net.com.finnova.com.hetzner.deu.your-server.de.ovh.ie.bootstrap.pypa.io.leaseweb.net.persiaserver.com.iintern.fastandfurious-isthebest-movieseriesintheworld-changemymindheeh.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "7gAAAAAAAAAAAAAAAAAAAABzZWdtZW50LnByb2QuYmlkci5pbw",
-    "id": 0,
-    "host": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayo.monaserver.cfd.",
-    "port": 443
-  },
-  {
-    "secret": "7jK5IN_7UWQwKOL2uHjU6sFpcmFuYWlyaG9tYS5jZmQ",
-    "id": 0,
-    "host": "het.warehere.again.to.defeets.got.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.nizcom.cloud",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.parsvps.icu.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.eager.fun",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.2onya.photography.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.branch.pics.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.wiley.work.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.grandstream.click.",
-    "port": 443
-  },
-  {
-    "secret": "7sI-q0__n3NxuWCh_8bITgFtYW5hZ2VyLm1vbml0b3Jib3gud2ViY2Ft",
-    "id": 0,
-    "host": "beauty.web-pointcamera.actor.",
-    "port": 88
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "my.irancell.ir.cityoflovers.cyou.",
-    "port": 443
-  },
-  {
-    "secret": "dd00000000000000000000000000000000",
-    "id": 0,
-    "host": "www.ipify.icu.",
-    "port": 443
   }
 ]
